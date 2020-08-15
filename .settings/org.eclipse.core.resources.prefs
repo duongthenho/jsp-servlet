@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/laptrinhjavaweb/controller/admin/BillsController.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/controller/admin/api/BillAPI.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/controller/web/api/CartAPI.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/controller/web/api/QuanHuyenAPI.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/controller/web/api/RegisterAPI.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/controller/web/api/XaPhuongThiTranAPI.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/dao/impl/BillDAO.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/dao/impl/UserDAO.java=UTF-8
+encoding//src/main/webapp/common/web/footer.jsp=UTF-8
+encoding//src/main/webapp/common/web/menu.jsp=UTF-8
