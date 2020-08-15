@@ -10,7 +10,7 @@
 <div class="main-content">
 	<c:if test="${not empty message }">
 		<script type="text/javascript">
-			alert("Bạn đã thay đổi thành công");
+			alert("Bạn đã thay đổi thành công.");
 		</script>
 	</c:if>
     <div class="main-content-inner">
