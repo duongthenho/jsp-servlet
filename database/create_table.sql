@@ -1,7 +1,5 @@
 use newservlet12month2018;
 
-use webdonghothoitrang
-
 create table role(
 	id bigint not null primary key auto_increment,
 	name VARCHAR(255) NOT NULL,
